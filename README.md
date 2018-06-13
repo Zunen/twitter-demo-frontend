@@ -1,2 +1,2 @@
 "# twitter-demo-frontend" 
-От курса ожидаю глубокого понимания этапов разработки реального програмного продукта, а также научиться использовать git, redux, тестировать js-код с помощью jest.
+Want learn how to create react app,  do some test my js code with Jest and have more practice. 
